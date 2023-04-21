@@ -1,0 +1,8 @@
+Did you know? There are 100 miliseconds in a second.
+Did you know? There are 60 seconds in a minute.
+Did you know? There are 60 minutes in an hour.
+Did you know? There are 24 hours in a day.
+Did you know? There are 7 days in a week.
+Did you know? There are 12 months in a year.
+Did you know? A leap year occurs once every 4 years.
+Did you know? 
